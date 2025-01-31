@@ -1,1 +1,3 @@
-console.log(12);
+import { Clock } from "./clock.js";
+
+const clock = new Clock(".hero_clock");
